@@ -2,6 +2,7 @@
 * Brown, J. R.; Seo, Y.; Hall, L. M. *Physical Review Letters* **2018**, 120, 127801. [[link]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.127801)
 * Seo, Y.; Shen, K.-H.; Brown, J. R.; Hall, L. M. *Journal of the American Chemical Society* **2019**, 141, 18455–18466. [[link]](https://pubs.acs.org/doi/abs/10.1021/jacs.9b07227)
 * Shen, K.-H.; Hall, L. M. *Macromolecules* **2020**, 53, 3655–3668. [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.0c00216)
+* Shen, K.-H.; Hall, L. M. *Macromolecules* **2020**, 53, 10086–10096. [[link]](https://pubs.acs.org/doi/10.1021/acs.macromol.0c02161)
 
 ## pair_style bornsolv command
 
